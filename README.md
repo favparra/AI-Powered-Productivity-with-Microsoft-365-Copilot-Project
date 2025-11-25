@@ -34,13 +34,13 @@ This repository contains the final project for the Udacity course. The project d
   Analyze and summarize supply chain issues from recent communications. Deliverable: `Supply_Chain_Issues_Review.docx` (Word document with business problem, action items, and conclusion).
 
 - **Task 2:**  
-  *(Describe Task 2 here, e.g., Meeting invite, agenda, and action plan for supply chain review. Deliverables: Meeting invite, agenda, Action Items Plan.)*
+  Meeting invite, agenda, and action plan for supply chain review. Deliverables: Meeting invite, agenda, Action Items Plan.
 
 - **Task 3:**  
-  *(Describe Task 3 here, e.g., Supply chain risk assessment and analysis report. Deliverables: Risk assessment data and analysis report.)*
+Supply chain risk assessment and analysis report. Deliverables: Risk assessment data and analysis report.
 
 - **Task 4:**  
-  *(Describe Task 4 here, e.g., Stakeholder presentation with speaker notes and data visualizations. Deliverable: Compliance report presentation.)*
+Stakeholder presentation with speaker notes and data visualizations. Deliverable: Compliance report presentation.
 
 ## How to Navigate and Review the Submission
 
